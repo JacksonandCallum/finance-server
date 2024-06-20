@@ -11,6 +11,7 @@
         <module>../common</module>
         <module>../mybatis</module>
         <module>../wx</module>
+        <module>../biz</module>
     </modules>
     <name>parent</name>
     <packaging>pom</packaging>

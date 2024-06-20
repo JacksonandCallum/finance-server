@@ -16,8 +16,9 @@
           <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final.jar" />
           <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar" />
         </processorPath>
-        <module name="common" />
         <module name="wx" />
+        <module name="biz" />
+        <module name="common" />
         <module name="mybatis" />
       </profile>
     </annotationProcessing>
