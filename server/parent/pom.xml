@@ -10,6 +10,7 @@
     <modules>
         <module>../common</module>
         <module>../mybatis</module>
+        <module>../wx</module>
     </modules>
     <name>parent</name>
     <packaging>pom</packaging>
