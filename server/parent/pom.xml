@@ -7,12 +7,13 @@
     <groupId>com.lvchenglong</groupId>
     <artifactId>parent</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>../common</module>
-        <module>../mybatis</module>
-        <module>../wx</module>
-        <module>../biz</module>
-    </modules>
+<!--    <modules>-->
+<!--        <module>../common</module>-->
+<!--        <module>../mybatis</module>-->
+<!--        <module>../wx</module>-->
+<!--        <module>../biz</module>-->
+<!--        <module>../admin-api</module>-->
+<!--    </modules>-->
     <name>parent</name>
     <packaging>pom</packaging>
 
@@ -272,7 +273,7 @@
         <repository>
             <id>alimaven</id>
             <name>aliyun maven</name>
-            <url>https://maven.aliyun.com/nexus/content/repositories/central/</url>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -286,7 +287,7 @@
         <pluginRepository>
             <id>alimaven</id>
             <name>aliyun maven</name>
-            <url>https://maven.aliyun.com/nexus/content/repositories/central/</url>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>

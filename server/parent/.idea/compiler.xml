@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
       </profile>
-      <profile name="Annotation profile for parent" enabled="true">
+      <profile name="Annotation profile for biz" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
@@ -19,6 +19,7 @@
         <module name="wx" />
         <module name="biz" />
         <module name="common" />
+        <module name="admin-api" />
         <module name="mybatis" />
       </profile>
     </annotationProcessing>
