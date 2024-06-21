@@ -19,8 +19,8 @@
         <module name="wx" />
         <module name="biz" />
         <module name="common" />
-        <module name="admin-api" />
         <module name="mybatis" />
+        <module name="admin-api" />
       </profile>
     </annotationProcessing>
   </component>
