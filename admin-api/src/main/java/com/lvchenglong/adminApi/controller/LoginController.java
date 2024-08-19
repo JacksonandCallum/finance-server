@@ -1,6 +1,7 @@
 package com.lvchenglong.adminApi.controller;
 
 import com.lvchenglong.biz.dto.form.GetBase64CodeForm;
+import com.lvchenglong.biz.dto.form.GetSmsCodeForm;
 import com.lvchenglong.biz.service.MemberLoginService;
 import com.lvchenglong.common.dto.ApiResponse;
 import io.swagger.annotations.Api;
@@ -33,5 +34,12 @@ public class LoginController {
     public ApiResponse<String> getBase64Code(@Validated @ModelAttribute GetBase64CodeForm form){
         String base64Code = memberLoginService.getBase64Code(form);
         return ApiResponse.success(base64Code);
+    }
+
+    @ApiOperation(value = "获取短信验证码")
+    @GetMapping(value = "/sendSmsCode")
+    public ApiResponse<Void> sendSmsCode(@Validated @ModelAttribute GetSmsCodeForm form) {
+        memberLoginService.sendSmsCode(form);
+        return ApiResponse.success();
     }
 }

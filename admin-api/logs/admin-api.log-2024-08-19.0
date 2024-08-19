@@ -1,0 +1,59 @@
+2024-08-19 00:28:25.561 [main] INFO  com.lvchenglong.AdminApiApplication - Starting AdminApiApplication using Java 1.8.0_321 on LAPTOP-P9DR836P with PID 70824 (D:\Java_Projects\FINANCE\server\admin-api\target\classes started by JackieCheng in D:\Java_Projects\FINANCE\server\parent)
+2024-08-19 00:28:25.562 [main] DEBUG com.lvchenglong.AdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-08-19 00:28:25.562 [main] INFO  com.lvchenglong.AdminApiApplication - The following 1 profile is active: "local"
+2024-08-19 00:28:26.114 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.lvchenglong]' package. Please check your configuration.
+2024-08-19 00:28:26.343 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-19 00:28:26.343 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-08-19 00:28:26.414 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-19 00:28:27.291 [main] INFO  com.lvchenglong.AdminApiApplication - Started AdminApiApplication in 2.003 seconds (JVM running for 2.427)
+2024-08-19 00:28:38.448 [http-nio-8091-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-19 00:52:36.507 [main] INFO  com.lvchenglong.AdminApiApplication - Starting AdminApiApplication using Java 1.8.0_321 on LAPTOP-P9DR836P with PID 73884 (D:\Java_Projects\FINANCE\server\admin-api\target\classes started by JackieCheng in D:\Java_Projects\FINANCE\server\parent)
+2024-08-19 00:52:36.508 [main] DEBUG com.lvchenglong.AdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-08-19 00:52:36.508 [main] INFO  com.lvchenglong.AdminApiApplication - The following 1 profile is active: "local"
+2024-08-19 00:52:37.082 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.lvchenglong]' package. Please check your configuration.
+2024-08-19 00:52:37.326 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-19 00:52:37.326 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-08-19 00:52:37.398 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-19 00:52:38.185 [main] INFO  com.lvchenglong.AdminApiApplication - Started AdminApiApplication in 1.965 seconds (JVM running for 2.401)
+2024-08-19 00:52:41.209 [http-nio-8091-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-19 00:53:10.843 [http-nio-8091-exec-8] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors<EOL>Field error in object 'getBase64CodeForm' on field 'clientId': rejected value [111]; codes [Pattern.getBase64CodeForm.clientId,Pattern.clientId,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [getBase64CodeForm.clientId,clientId]; arguments []; default message [clientId],[Ljavax.validation.constraints.Pattern$Flag;@7e87e254,^[0-9A-Za-z]{6,32}$]; default message [clientId非法]]
+2024-08-19 20:07:35.614 [main] INFO  com.lvchenglong.AdminApiApplication - Starting AdminApiApplication using Java 1.8.0_321 on LAPTOP-P9DR836P with PID 16764 (D:\Java_Projects\FINANCE\server\admin-api\target\classes started by JackieCheng in D:\Java_Projects\FINANCE\server\parent)
+2024-08-19 20:07:35.615 [main] DEBUG com.lvchenglong.AdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-08-19 20:07:35.615 [main] INFO  com.lvchenglong.AdminApiApplication - The following 1 profile is active: "local"
+2024-08-19 20:07:36.345 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.lvchenglong]' package. Please check your configuration.
+2024-08-19 20:07:36.632 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-19 20:07:36.632 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-08-19 20:07:36.735 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-19 20:07:37.586 [main] INFO  com.lvchenglong.AdminApiApplication - Started AdminApiApplication in 2.295 seconds (JVM running for 2.845)
+2024-08-19 20:07:41.807 [http-nio-8091-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-19 20:24:46.032 [main] INFO  com.lvchenglong.AdminApiApplication - Starting AdminApiApplication using Java 1.8.0_321 on LAPTOP-P9DR836P with PID 8300 (D:\Java_Projects\FINANCE\server\admin-api\target\classes started by JackieCheng in D:\Java_Projects\FINANCE\server\parent)
+2024-08-19 20:24:46.034 [main] DEBUG com.lvchenglong.AdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-08-19 20:24:46.034 [main] INFO  com.lvchenglong.AdminApiApplication - The following 1 profile is active: "local"
+2024-08-19 20:24:46.572 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.lvchenglong]' package. Please check your configuration.
+2024-08-19 20:24:46.812 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-19 20:24:46.812 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-08-19 20:24:46.894 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-19 20:24:47.339 [main] INFO  c.l.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-08-19 20:24:47.341 [main] INFO  c.l.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-08-19 20:24:47.665 [main] INFO  com.lvchenglong.AdminApiApplication - Started AdminApiApplication in 1.904 seconds (JVM running for 2.352)
+2024-08-19 20:26:19.702 [main] INFO  com.lvchenglong.AdminApiApplication - Starting AdminApiApplication using Java 1.8.0_321 on LAPTOP-P9DR836P with PID 25760 (D:\Java_Projects\FINANCE\server\admin-api\target\classes started by JackieCheng in D:\Java_Projects\FINANCE\server\parent)
+2024-08-19 20:26:19.704 [main] DEBUG com.lvchenglong.AdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-08-19 20:26:19.704 [main] INFO  com.lvchenglong.AdminApiApplication - The following 1 profile is active: "local"
+2024-08-19 20:26:20.286 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.lvchenglong]' package. Please check your configuration.
+2024-08-19 20:26:20.571 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-19 20:26:20.572 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-08-19 20:26:20.666 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-19 20:26:21.111 [main] INFO  c.l.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-08-19 20:26:21.112 [main] INFO  c.l.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-08-19 20:26:21.446 [main] INFO  com.lvchenglong.AdminApiApplication - Started AdminApiApplication in 2.061 seconds (JVM running for 2.508)
+2024-08-19 20:26:26.488 [http-nio-8091-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-19 22:34:53.574 [main] INFO  com.lvchenglong.AdminApiApplication - Starting AdminApiApplication using Java 1.8.0_321 on LAPTOP-P9DR836P with PID 15468 (D:\Java_Projects\FINANCE\server\admin-api\target\classes started by JackieCheng in D:\Java_Projects\FINANCE\server\parent)
+2024-08-19 22:34:53.575 [main] DEBUG com.lvchenglong.AdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-08-19 22:34:53.575 [main] INFO  com.lvchenglong.AdminApiApplication - The following 1 profile is active: "local"
+2024-08-19 22:34:54.126 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.lvchenglong]' package. Please check your configuration.
+2024-08-19 22:34:54.377 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-08-19 22:34:54.377 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-08-19 22:34:54.461 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-08-19 22:34:54.927 [main] INFO  c.l.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-08-19 22:34:54.929 [main] INFO  c.l.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-08-19 22:34:55.262 [main] INFO  com.lvchenglong.AdminApiApplication - Started AdminApiApplication in 1.97 seconds (JVM running for 2.43)
