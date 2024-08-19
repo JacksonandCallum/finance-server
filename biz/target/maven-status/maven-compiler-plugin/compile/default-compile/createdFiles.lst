@@ -1,0 +1,4 @@
+com\lvchenglong\biz\dto\form\GetBase64CodeForm.class
+com\lvchenglong\biz\service\MemberLoginService.class
+com\lvchenglong\biz\service\impl\MemberLoginServiceImpl.class
+com\lvchenglong\biz\constant\RedisKeyConstant.class
